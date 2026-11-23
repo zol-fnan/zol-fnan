@@ -1,17 +1,3 @@
-✨
-V2 Available Now!Try the new version
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24487
-Fork on GitHub
-8419
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm wali</h1>
 <h3 align="center">💫 About Me: I am Wali—known as "Zol Fannan" —a visual artist, designer, web developer, and technical expert. My work embodies a unique harmony between artistic creativity and technical innovation. Driven by a passion for the visual arts and drawing, I strive to transform creative concepts into innovative digital projects that offer distinctive visual experiences. I firmly believe that the fusion of art and technology yields exceptional results: art infuses technology with a human touch, while technology grants art limitless possibilities. Leveraging my multidisciplinary expertise, I develop engaging, aesthetically pleasing digital solutions—with a focus on cre ating creative yet functional user interfaces—utilizing the latest technical tools to bring unique artistic visions to life.</h3>
